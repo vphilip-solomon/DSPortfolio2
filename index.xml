@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip  on Philip Web Portfolio</title>
+    <link>https://vphilip-solomon.github.io/DSPortfolio2/</link>
+    <description>Recent content in Philip  on Philip Web Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://vphilip-solomon.github.io/DSPortfolio2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project2</title>
+      <link>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-2/</guid>
+      <description>This article is about tuning xgboost model . tuning_xgboost.py helps you using consecutive (greedy) gridsearch with cross validation to tune xgboost hyperparameters in python. This is useful, when the hyperparameter space is too big or you don&amp;rsquo;t really want to dig too deep into how this all works. I recommend using pairwise gridsearch
+  { Link to Github Repository }(https://github.com/vphilip-solomon/tuning_xgboost)</description>
+    </item>
+    
+    <item>
+      <title>Project1</title>
+      <link>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-1/</guid>
+      <description>Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition&amp;rsquo;s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vphilip-solomon.github.io/DSPortfolio2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vphilip-solomon.github.io/DSPortfolio2/contact/</guid>
+      <description>   Platform : URL     Github : https://github.com/vphilip-solomon   Youtube : https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig   Twitter : https://twitter.com/Ds1Philso   Linkedin : https://www.linkedin.com/in/philip-solomon-1204b717/   Kaggle : https://www.kaggle.com/dany123456    </description>
+    </item>
+    
+  </channel>
+</rss>

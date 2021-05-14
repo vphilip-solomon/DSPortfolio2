@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/post/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/post/chapter-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vphilip-solomon.github.io/DSPortfolio2/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vphilip-solomon.github.io/DSPortfolio2/tags/"
+                />
+  </url>
+  
+</urlset>
